@@ -1,0 +1,4 @@
+#Sun Oct 03 17:44:28 CEST 2021
+base.0=C\:\\Users\\34671\\Desktop\\INTENT1\\visual studio code\\flutter_google_map\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

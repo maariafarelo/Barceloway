@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_google_map",
+            "cwd": "flutter_google_map",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_google_map (profile mode)",
+            "cwd": "flutter_google_map",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_google_map (release mode)",
+            "cwd": "flutter_google_map",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_google_map",
+            "cwd": "visual studio code\\flutter_google_map",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_google_map (profile mode)",
+            "cwd": "visual studio code\\flutter_google_map",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_google_map (release mode)",
+            "cwd": "visual studio code\\flutter_google_map",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

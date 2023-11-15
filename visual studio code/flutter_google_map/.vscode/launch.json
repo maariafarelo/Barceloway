@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\menjar.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\menjar.dart"
+        }
+    ]
+}

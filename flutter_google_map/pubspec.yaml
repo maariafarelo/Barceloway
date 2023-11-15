@@ -1,0 +1,55 @@
+name: flutter_google_map
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.0.6
+  cupertino_icons: ^1.0.2
+  introduction_screen: ^2.1.0
+  url_launcher: ^6.0.10
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pasgrac.JPG
+    - assets/pin.png.PNG
+    - assets/instagram.png.PNG
+    - assets/okay.png.PNG
+    - assets/bcn.JPG
+    - assets/image.png.PNG
+    - assets/logo2.png.PNG
+    - assets/b2n.JPG
+    - assets/maquinista.jpg.JPG
+    - assets/angel.JPG
+    - assets/arenas.jpg
+    - assets/sfami.png.PNG
+    - assets/rambla.JPG
+    - assets/maremagnum.JPG
+    - assets/plazacat.JPG
+    - assets/guell.JPG
+    - assets/lacentral.JPG
+    - assets/lesfilles.JPG
+    - assets/harrys.JPG
+    - assets/wetdeck.JPG
+    - assets/sagrfami.JPG
+
+
+
+    
+    
+
+
+    
+
