@@ -17,8 +17,8 @@
 # 🕵️‍♀️ Things you should bear in mind before reading the project:
  ### 1 - It's a project created by (at that time) a 16/17-year-old with no programming background. The program could be considered to have a rather crude design, but the crucial aspect was to learn programming and create a project that I was passionate about, rather than opting for something simpler just to get a better grade.
  ### 2 -It's written in Catalan.
-<img align="left" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/57d2c8f2-7712-4bcb-b271-05ececeeb591" height=675px>
-<img align="centre" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/420710fe-dcfb-4b78-9e7b-32e31a82c049" height=675px>
-<img align="right" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/9b528bd7-372c-483f-9efb-8582eeb151f9" height=675px>
+<img align="left" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/57d2c8f2-7712-4bcb-b271-05ececeeb591" height=475px>
+<img align="centre" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/420710fe-dcfb-4b78-9e7b-32e31a82c049" height=475px>
+<img align="right" src="https://github.com/maariafarelo/BARCELOWAAY/assets/114859584/9b528bd7-372c-483f-9efb-8582eeb151f9" height=475px>
 
 
